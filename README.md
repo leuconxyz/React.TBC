@@ -3,23 +3,26 @@
 
 #
 
-## Helpful Commands/Reminders 
+## Helpful Commands/Reminders 📚
 > General information, not project specific [for everyone]
 > 
-> not that anything inside [] is either a different option available or your custom one.
+> Note: Anything inside [ ] is either a different option available or your custom one.
 
-### • Creating a similar project
-> npm create vite@latest
-> [name]
-> react [other]
-> javascript [typescript]
+#### 🏹 • Creating a similar project
+> \> npm create vite@latest
+>
+> \> [name]
+> 
+> \> react [other]
+> 
+> \> javascript [typescript]
 
-### • Starting your project
-> cd [directory]
+#### 📈 • Starting your project
+> \> cd [directory]
 > 
-> npm install
+> \> npm install
 > 
-> npm run dev
+> \> npm run dev
 > 
 > [open hosted link in terminal]
 
