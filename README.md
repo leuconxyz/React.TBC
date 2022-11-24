@@ -15,8 +15,11 @@
 
 ### • Starting your project
 > cd [directory]
+> 
 > npm install
+> 
 > npm run dev
+> 
 > [open hosted link in terminal]
 
 ### • 
