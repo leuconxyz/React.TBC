@@ -3,7 +3,7 @@
 
 #
 
-## Helpful Commands/Reminders 📚
+## • Helpful Commands/Reminders 📚
 > General information, not project specific [for everyone]
 > 
 > Note: Anything inside [ ] is either a different option available or your custom one.
