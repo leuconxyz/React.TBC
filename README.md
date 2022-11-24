@@ -8,7 +8,7 @@
 > 
 > Note: Anything inside [ ] is either a different option available or your custom one.
 
-#### 🏹 • Creating a similar project
+#### 🔨 • Creating a similar project
 > \> npm create vite@latest
 >
 > \> [name]
